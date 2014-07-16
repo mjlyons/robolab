@@ -1,0 +1,3 @@
+[submodule "double-sdk"]
+	path = double-sdk
+	url = https://github.com/doublerobotics/Basic-Control-SDK-iOS
